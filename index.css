@@ -1,4 +1,6 @@
 body{
     background-color: #034159;
     color: #038c3E;
+    position:static;
+    text-align: center;
 }
