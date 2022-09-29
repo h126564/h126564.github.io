@@ -5,10 +5,10 @@ body{
     text-align: center;
 }
 #bg1{
+    margin: 0;
+    padding: 0;
+    position:absolute;
     background-image:url("resources/20383553.jpg");
     height: 500px;
-    width: 110%;
-    left: 10px;
-    color:aliceblue;
-    top: 20px;
+    width: 98.5%
 }
