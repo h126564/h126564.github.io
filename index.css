@@ -3,6 +3,8 @@ body{
     color: #038c3E;
     position:static;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 #bg1{
     margin: 0;
@@ -10,5 +12,37 @@ body{
     position:absolute;
     background-image:url("resources/20383553.jpg");
     height: 500px;
-    width: 98.5%
+    width: 100%;
+    top: -5px;
+
+
+}
+#bg1title{
+    margin-top: 0;
+}
+
+#bg2{
+    top: 550px;
+    position: absolute;
+    background-color: #034159;
+    height: 500px;
+    width: 90%;
+    margin-left: 5%;
+    padding: 0;
+    border: 2px solid #038c3E;
+}
+#bg2title{
+    margin-top: 0;
+}
+#bg3{
+    top: 1100px;
+    position: absolute;
+    background-color: #034159;
+    height: 500px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#bg3title{
+    margin-top: 0;
 }
