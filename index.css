@@ -10,6 +10,8 @@ body{
     position: sticky;
     width: 100%;
     display: inline;
+    height: 20px;
+    z-index: -1;
 }
 #bg1{
     margin: 0;
@@ -18,15 +20,17 @@ body{
     background-image:url("resources/20383553.jpg");
     height: 500px;
     width: 100%;
-    top: -5px;
-
+    top: 15px;
+    z-index: 5;
 
 }
 #bg1title{
     margin-top: 0;
+    z-index: 5;
 }
 
 #bg2{
+    z-index: 5;
     top: 550px;
     position: absolute;
     background-color: #034159;
@@ -38,8 +42,10 @@ body{
 }
 #bg2title{
     margin-top: 0;
+    z-index: 5;
 }
 #bg3{
+    z-index: 5;
     top: 1100px;
     position: absolute;
     background-color: #034159;
@@ -50,4 +56,5 @@ body{
 }
 #bg3title{
     margin-top: 0;
+    z-index: 5;
 }
