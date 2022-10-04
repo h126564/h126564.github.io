@@ -6,6 +6,11 @@ body{
     margin: 0;
     padding: 0;
 }
+#navBar{
+    position: sticky;
+    width: 100%;
+    display: inline;
+}
 #bg1{
     margin: 0;
     padding: 0;
