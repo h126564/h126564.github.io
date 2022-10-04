@@ -1,6 +1,6 @@
 body{
     background-color: #034159;
-    color: #038c3E;
+    color: #EB632E;
     position:static;
     text-align: center;
     margin: 0;
@@ -13,7 +13,8 @@ body{
     width: 100%;
     display: inline;
     height: 20px;
-    z-index: -1;
+    z-index: 99999;
+    background-color: whitesmoke;
 }
 #bg1{
     margin: 0;
