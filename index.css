@@ -1,12 +1,13 @@
 body{
     display: block;
-    background-color: #034159;
-    color: #EB632E;
+    background-color: #1F2024;
+    color: #004F4D;
     position:static;
     text-align: center;
     margin: 0;
     padding: 0;
 }
+/* #004F4D, #1F2024, #4B4952, #79717A, #A68F97 */
 #topnav {
     width: 100%;
  
@@ -14,7 +15,7 @@ body{
     top: 0;
     left: 0;
  
-    background-color: Black;
+    background-color: #2327EB;
  
     font-family: Arial, sans-serif;
     font-size: 15px;
@@ -24,7 +25,7 @@ body{
     width: 100px;
     height: 55px;
  
-    color: White;
+    color: #4B4952;
  
     /* centering text */
     text-align: center;    /* horizontally */
