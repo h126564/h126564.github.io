@@ -9,7 +9,7 @@ body{
 #navBar{
     opacity: 0.1;
     position: fixed;
-    top: -17;
+    top: -17px;
     right: 0;
     width: 100%;
     display: inline;
