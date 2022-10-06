@@ -9,6 +9,7 @@ body{
 }
 /* #004F4D, #1F2024, #4B4952, #79717A, #A68F97 */
 #topnav {
+    z-index: 99999;
     width: 100%;
  
     position: fixed;
