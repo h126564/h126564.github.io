@@ -8,7 +8,7 @@ function scrollBg2() {
     bg2.style.left = Math.sqrt()
 };
 onscroll = function(){
-    bg1.style.left = -window.scrollY *4 + "px";
+    //bg1.style.left = -window.scrollY *4 + "px";
     //scrollBg2();
 
 
