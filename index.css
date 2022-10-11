@@ -1,13 +1,13 @@
 body{
     display: block;
-    background-color: #1F2024;
-    color: #004F4D;
+    background-color: #747F7F;
+    color: #72F2EB;
     position:static;
     text-align: center;
     margin: 0;
     padding: 0;
 }
-/* #004F4D, #1F2024, #4B4952, #79717A, #A68F97 */
+/* #FF4858, #1B7F79, #00CCC0, #72F2EB, #747F7F */
 #topnav {
     z-index: 99999;
     width: 100%;
@@ -16,7 +16,7 @@ body{
     top: 0;
     left: 0;
  
-    background-color: #4B4952;
+    background-color: #1B7F79;
  
     font-family: Arial, sans-serif;
     font-size: 15px;
@@ -26,7 +26,7 @@ body{
     width: 100px;
     height: 55px;
  
-    color: #A68F97;
+    color: #72F2EB;
  
     /* centering text */
     text-align: center;    /* horizontally */
@@ -37,7 +37,7 @@ body{
  #logo {
     width: 120px;
  
-    background-color: #4B4952;
+    background-color: #747F7F;
     
     font-weight: bold;
  }
@@ -67,12 +67,12 @@ body{
     z-index: 5;
     top: 550px;
     position: absolute;
-    background-color: #034159;
+    background-color: #747F7F;
     height: 500px;
     width: 90%;
     margin-left: 5%;
     padding: 0;
-    border: 2px solid #038c3E;
+    border: 2px solid #00CCC0;
 }
 #bg2title{
     margin-top: 0;
@@ -82,7 +82,7 @@ body{
     z-index: 5;
     top: 1100px;
     position: absolute;
-    background-color: #034159;
+    background-color: #1B7F79;
     height: 500px;
     width: 100%;
     margin: 0;
