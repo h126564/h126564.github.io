@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "InconsolataBlack";
+    font-family: "Inconsolatablack";
     src: url("resources/fonts/Inconsolata-Black.ttf");
 };
 @font-face {
-    font-family: "InconsolataRegular";
+    font-family: "Inconsolataregular";
     src: url("resources/fonts/Inconsolata-Regular.ttf");
 };
 
 @font-face {
-    font-family: "RobotoMono";
+    font-family: "Robotomono";
     src: url("resources/fonts/RobotoMono-Regular.ttf");
 };
 
@@ -73,6 +73,7 @@ body{
     width: 100%;
     top: 55px;
     z-index: 5;
+    font-family: "Robotomono";
     
 
 }
