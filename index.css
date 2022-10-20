@@ -6,11 +6,11 @@
     font-family: "Inconsolataregular";
     src: url("resources/fonts/Inconsolata-Regular.ttf");
 };
-
 @font-face {
     font-family: "JosefinSans";
     src: url("resources/fonts/JosefinSans-Regular.ttf");
 };
+/*Make josefinsans work again*/
 
 html{
     scroll-behavior: smooth;
@@ -73,7 +73,7 @@ body{
     width: 100%;
     top: 55px;
     z-index: 5;
-   /* font-family: "JosefinSans";*/
+    font-family: "JosefinSans";
     
 
 }
