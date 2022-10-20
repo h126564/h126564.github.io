@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "InconsolataBlack";
+    src: url("resources/fonts/Inconsolata-Black.ttf");
+};
+@font-face {
+    font-family: "InconsolataRegular";
+    src: url("resources/fonts/Inconsolata-Regular.ttf");
+};
+
+@font-face {
+    font-family: "RobotoMono";
+    src: url("resources/fonts/RobotoMono-Regular.ttf");
+};
+
 html{
     scroll-behavior: smooth;
 }
