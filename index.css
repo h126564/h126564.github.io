@@ -8,8 +8,8 @@
 };
 
 @font-face {
-    font-family: "Robotomono";
-    src: url("resources/fonts/RobotoMono-Regular.ttf");
+    font-family: "JosefinSans";
+    src: url("resources/fonts/JosefinSans-Regular.ttf");
 };
 
 html{
@@ -73,7 +73,7 @@ body{
     width: 100%;
     top: 55px;
     z-index: 5;
-    /*font-family: "Robotomono";*/
+    font-family: "JosefinSans";
     
 
 }
