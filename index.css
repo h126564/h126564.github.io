@@ -40,8 +40,8 @@ img{
     top: 0;
     left: 0;
  
-    background-color: #1B7F79;
- 
+    /*background-color: #1B7F79;*/
+    background-color: #125751;
     font-family: Inconsolatablack, sans-serif;
     font-size: 18px;
  }
@@ -61,7 +61,7 @@ img{
  #logo {
     width: 120px;
  
-    background-color: #FF4858;
+    background-color: #7a2128;
     
     font-weight: bold;
  }
