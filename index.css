@@ -1,15 +1,15 @@
 @font-face {
     font-family: "Inconsolatablack";
     src: url("resources/fonts/Inconsolata-Black.ttf");
-};
+}
 @font-face {
     font-family: "Inconsolataregular";
     src: url("resources/fonts/Inconsolata-Regular.ttf");
-};
+}
 @font-face {
     font-family: "JosefinSans";
     src: url("resources/fonts/JosefinSans-Regular.ttf");
-};
+}
 /*Make josefinsans work again*/
 
 html{
@@ -24,6 +24,10 @@ body{
     text-align: center;
     margin: 0;
     padding: 0;
+    font-family: JosefinSans, Inconsolataregular, sans-serif;
+}
+img{
+    height: 300px;
 }
 /* #FF4858, #1B7F79, #00CCC0, #72F2EB, #747F7F */
 #topnav {
@@ -36,8 +40,8 @@ body{
  
     background-color: #1B7F79;
  
-    font-family: Arial, sans-serif;
-    font-size: 15px;
+    font-family: Inconsolatablack, sans-serif;
+    font-size: 18px;
  }
  .nav-link {
     display: inline-block;
@@ -73,7 +77,7 @@ body{
     width: 100%;
     top: 55px;
     z-index: 5;
-    font-family: "JosefinSans";
+    font-family: "JosefinSans", serif;
     
 
 }
