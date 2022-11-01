@@ -19,7 +19,8 @@ html{
 body{
     display: block;
     background-color: #747F7F;
-    color: #72F2EB;
+    /*color: #72F2EB;*/
+    color: #bbfff6;
     position:static;
     text-align: center;
     margin: 0;
@@ -110,6 +111,9 @@ img{
     width: 100%;
     margin: 0;
     padding: 0;
+}
+#bg3 ul{
+    list-style-type:none;
 }
 #bg3title{
     margin-top: 0;
