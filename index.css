@@ -18,7 +18,8 @@ html{
 
 body{
     display: block;
-    background-color: #747F7F;
+    /*background-color: #747F7F;*/
+    background-color: #4a5050;
     /*color: #72F2EB;*/
     color: #bbfff6;
     position:static;
@@ -91,7 +92,8 @@ img{
     z-index: 5;
     top: 600px;
     position: absolute;
-    background-color: #747F7F;
+    /*background-color: #747F7F;*/
+    background-color: #4a5050;
     height: 550px;
     width: 90%;
     margin-left: 5%;
@@ -106,7 +108,8 @@ img{
     z-index: 5;
     top: 1200px;
     position: absolute;
-    background-color: #1B7F79;
+    /*background-color: #1B7F79;*/
+    background-color: #125751;
     height: 500px;
     width: 100%;
     margin: 0;
