@@ -122,3 +122,10 @@ img{
     margin-top: 0;
     z-index: 5;
 }
+#foot{
+    text-align: left;
+    position: absolute;
+    right: 10px;
+    top: 1550px;
+    z-index: 1000;
+}
